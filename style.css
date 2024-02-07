@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbar li{
+    list-style: none;
+
+}
+
+.topLeft{
+    width:50%;
+}
+
+.topright{
+    width:50%;
+}
+
+.section1{
+    height:40vh;
+}
+
+.btn{
+    padding: 4px 12px;
+    border:2px  white;
+     border-radius: 11px;
+    color:white;
+    background-color: orange;
+    cursor: pointer;
+}
+
+.sgn{
+    padding:4px 12px;
+    border:2px white;
+    color:white;
+    background-color: blueviolet;
+    cursor: pointer;
+    width: 165px;
+    height:50px;
+}
+
